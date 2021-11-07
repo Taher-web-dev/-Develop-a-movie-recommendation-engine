@@ -24,13 +24,13 @@ To get a local copy up and running follow these simple example steps.
 - Clone this project by the command: 
 
 ```
-$ git clone git@github.com:Taher-web-dev/Analyze-nutritional-data.git
+$ git clone git@github.com:Taher-web-dev/-Develop-a-movie-recommendation-engine.git
 ```
 
 - Then go to the main folder using the next command:
 
 ```
-$ cd Analyze-nutritional-data
+$ cd -Develop-a-movie-recommendation-engine
 ```
 
 
